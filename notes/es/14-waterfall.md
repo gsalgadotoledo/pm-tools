@@ -38,4 +38,4 @@ Cubierto en la siguiente nota — hay casos especificos donde tiene sentido.
 
 | | |
 |---|---|
-| [<- Anterior: Scrum & Kanban](13-scrum-y-kanban.md) | Siguiente: ... -> |
+| [<- Anterior: Scrum & Kanban](13-scrum-y-kanban.md) | [Siguiente: Agile en Practica y Casos Waterfall ->](15-agile-en-practica-y-casos-waterfall.md) |

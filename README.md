@@ -29,6 +29,7 @@ images/  # Supporting diagrams and screenshots
 12. [Agile](notes/en/12-agile.md)
 13. [Scrum & Kanban](notes/en/13-scrum-and-kanban.md)
 14. [Waterfall](notes/en/14-waterfall.md)
+15. [Agile in Practice & Waterfall Use Cases](notes/en/15-agile-in-practice-and-waterfall-use-cases.md)
 
 ### Espanol
 
@@ -46,6 +47,7 @@ images/  # Supporting diagrams and screenshots
 12. [Agile](notes/es/12-agile.md)
 13. [Scrum & Kanban](notes/es/13-scrum-y-kanban.md)
 14. [Waterfall](notes/es/14-waterfall.md)
+15. [Agile en Practica y Casos Waterfall](notes/es/15-agile-en-practica-y-casos-waterfall.md)
 
 ---
 
@@ -115,6 +117,7 @@ images/  # Supporting diagrams and screenshots
 | **[Agile](notes/en/12-agile.md)** | Lean applied to software — iterative development in small batches | Build the top 2-5 features, release, get feedback, then decide what's next. The standard for software teams |
 | **[Scrum](notes/en/13-scrum-and-kanban.md)** | Agile framework: sprints (2 weeks) + planning + standups + retros | When you need structured, time-boxed development with predictable delivery |
 | **[Kanban](notes/en/13-scrum-and-kanban.md)** | Agile framework: continuous flow, no sprints, WIP limits | When estimation matters less and work flows continuously (e.g., support teams) |
+| **[Waterfall](notes/en/14-waterfall.md)** | Sequential: build everything, then release all at once | When features are interdependent (OS), mission-critical (car braking), or physical (construction) |
 
 ### Things to Keep in Mind
 - You are NOT anyone's boss — influence without authority

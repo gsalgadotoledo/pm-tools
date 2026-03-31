@@ -38,4 +38,4 @@ Covered in the next note — there are specific use cases where it makes sense.
 
 | | |
 |---|---|
-| [<- Previous: Scrum & Kanban](13-scrum-and-kanban.md) | Next: ... -> |
+| [<- Previous: Scrum & Kanban](13-scrum-and-kanban.md) | [Next: Agile in Practice & Waterfall Use Cases ->](15-agile-in-practice-and-waterfall-use-cases.md) |
