@@ -92,6 +92,11 @@ images/  # Supporting diagrams and screenshots
 | **Low-hanging fruit** | Easy wins with minimal effort |
 | **Move the needle** | Make a meaningful impact on a metric |
 
+### Frameworks & Mental Models
+| Framework | What it is | When to use it |
+|---|---|---|
+| **Product Lifecycle** | 4 phases: Introduction -> Growth -> Maturity -> Decline | To understand where a company/product stands in the market and adapt your PM strategy accordingly — what you prioritize in Introduction (finding market fit) is completely different from Maturity (defending against competitors) |
+
 ### Things to Keep in Mind
 - You are NOT anyone's boss — influence without authority
 - If something is wrong with the product, it's YOUR fault
