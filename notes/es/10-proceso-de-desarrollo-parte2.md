@@ -76,4 +76,4 @@ Dos preguntas a responder:
 
 | | |
 |---|---|
-| [<- Anterior: Proceso de Desarrollo Parte 1](09-proceso-de-desarrollo-parte1.md) | Siguiente: ... -> |
+| [<- Anterior: Proceso de Desarrollo Parte 1](09-proceso-de-desarrollo-parte1.md) | [Siguiente: Filosofia Lean ->](11-filosofia-lean.md) |

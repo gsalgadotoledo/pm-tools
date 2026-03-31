@@ -76,4 +76,4 @@ Two questions to answer:
 
 | | |
 |---|---|
-| [<- Previous: Product Development Process Part 1](09-product-development-process-part1.md) | Next: ... -> |
+| [<- Previous: Product Development Process Part 1](09-product-development-process-part1.md) | [Next: Lean Philosophy ->](11-lean-philosophy.md) |
