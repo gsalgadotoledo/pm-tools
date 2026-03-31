@@ -62,12 +62,64 @@ To Do  →  In Progress  →  Done
 
 ---
 
+---
+
+## Kanban
+
+A **less strict** Agile framework — no sprints, no prescribed meetings.
+
+### How it Works
+
+```
+Product Backlog (endless prioritized list)
+        |
+        v  take next task from top
+In Progress (limited WIP)
+        |
+        v
+Done → take next task
+```
+
+### Key Differences from Scrum
+
+| | Scrum | Kanban |
+|---|---|---|
+| **Sprints** | Yes (2-4 weeks) | No — continuous flow |
+| **Backlogs** | Product + Sprint backlog | Product backlog only |
+| **Meetings** | Planning, standup, retro (prescribed) | No prescribed meetings |
+| **WIP Limits** | Implicit (sprint capacity) | Explicit — only X items in progress at once |
+| **Estimation** | Important (velocity, story points) | Less emphasis |
+| **Best for** | Teams needing predictable delivery | Teams with continuous flow (e.g., support) |
+
+### Kanban Board
+
+```
+| To Do | In Progress (max 3) | Review (max 2) | Done |
+|-------|---------------------|----------------|------|
+| task  | task                | task           | task |
+| task  | task                |                | task |
+| task  |                     |                |      |
+```
+
+**WIP Limit**: only a set number of items can be in each column at once.
+
+### Advantage & Disadvantage
+
+- **Advantage**: More relaxed, flexible, less ceremony
+- **Disadvantage**: Harder to estimate/project delivery timelines (no sprints = no velocity)
+
+### Which One is Best?
+
+**There's no definitive answer.** It depends on your team's preference. The best process is the one you actually use.
+
+---
+
 ## Buzzwords
 
 | Term | Definition |
 |---|---|
 | **Scrum** | Most popular Agile framework — sprints, standups, retros |
-| **Kanban** | Agile framework focused on continuous flow (covered in next note) |
+| **Kanban** | Agile framework — continuous flow, no sprints, WIP limits |
 | **Sprint** | Time-boxed work period, usually 2 weeks |
 | **Sprint Planning** | Meeting to decide what goes into the sprint |
 | **Sprint Backlog** | The subset of work selected for the current sprint |
