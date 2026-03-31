@@ -97,4 +97,4 @@
 
 | | |
 |---|---|
-| [<- Anterior: Tipos de Product Managers](03-tipos-de-product-managers.md) | Siguiente: ... -> |
+| [<- Anterior: Tipos de Product Managers](03-tipos-de-product-managers.md) | [Siguiente: Product vs Project Management ->](05-producto-vs-proyecto-management.md) |
