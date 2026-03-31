@@ -127,6 +127,30 @@ images/  # Supporting diagrams and screenshots
 | **[EMUC](notes/en/17-emuc-where-ideas-come-from.md)** | Employees, Metrics, Users, Clients — the 4 sources of ideas | To systematically collect and categorize where product ideas come from based on your PM type |
 | **[The 3 Whys](notes/en/18-finding-the-real-problem.md)** | Ask "why?" at least 3 times on any request | To uncover the real pain point behind feature requests — don't build the symptom fix |
 
+### Core Pain Points: What People Will Never Tell You
+
+> The request is the symptom. Your job is to find the disease. ([More details](notes/en/18-finding-the-real-problem.md))
+
+People will **never** say things like:
+- "I just wish the product shipped later" — but a confusing feature reveals they needed more clarity, not more speed
+- "This feature is too complex for me" — instead they'll say "it's buggy" or "it doesn't work"
+- "I don't understand what this does" — instead they'll request a new feature that does what the existing one already does
+- "Your product makes me feel stupid" — instead they'll quietly leave and never come back
+
+**How to find the real pain:**
+1. Use the [3 Whys technique](notes/en/18-finding-the-real-problem.md) — ask "why?" at least 3 times
+2. Watch for **unintended side effects** — building exactly what's asked can hurt the product (e.g., Twitter retweet filter would kill their core signal of what's popular)
+3. Look at **what users DO**, not what they say — metrics reveal the truth behind requests
+4. The real problem often lives **2 departments away** from the person asking
+
+| What they say | What they mean | Real pain point |
+|---|---|---|
+| "Add a quick message banner" | "Users are confused" | The page design is misleading |
+| "Give me a towel" | "I'm wet" | They're standing in the rain |
+| "Let me filter retweets" | "My timeline is messy" | The feed algorithm needs better curation |
+| "Build us a mobile app" | "I can't do X on my phone" | The website isn't responsive |
+| "We need more reports" | "I can't find what I need" | The existing data is poorly organized |
+
 ### Things to Keep in Mind
 - You are NOT anyone's boss — influence without authority
 - If something is wrong with the product, it's YOUR fault
