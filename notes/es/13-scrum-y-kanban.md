@@ -139,4 +139,4 @@ Hecho → tomar siguiente tarea
 
 | | |
 |---|---|
-| [<- Anterior: Agile](12-agile.md) | Siguiente: ... -> |
+| [<- Anterior: Agile](12-agile.md) | [Siguiente: Waterfall ->](14-waterfall.md) |

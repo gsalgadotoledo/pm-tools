@@ -28,6 +28,7 @@ images/  # Supporting diagrams and screenshots
 11. [Lean Philosophy](notes/en/11-lean-philosophy.md)
 12. [Agile](notes/en/12-agile.md)
 13. [Scrum & Kanban](notes/en/13-scrum-and-kanban.md)
+14. [Waterfall](notes/en/14-waterfall.md)
 
 ### Espanol
 
@@ -44,6 +45,7 @@ images/  # Supporting diagrams and screenshots
 11. [Filosofia Lean](notes/es/11-filosofia-lean.md)
 12. [Agile](notes/es/12-agile.md)
 13. [Scrum & Kanban](notes/es/13-scrum-y-kanban.md)
+14. [Waterfall](notes/es/14-waterfall.md)
 
 ---
 

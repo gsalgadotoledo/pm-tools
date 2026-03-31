@@ -139,4 +139,4 @@ Done → take next task
 
 | | |
 |---|---|
-| [<- Previous: Agile](12-agile.md) | Next: ... -> |
+| [<- Previous: Agile](12-agile.md) | [Next: Waterfall ->](14-waterfall.md) |
