@@ -27,6 +27,7 @@ images/  # Supporting diagrams and screenshots
 10. [Product Development Process (Part 2)](notes/en/10-product-development-process-part2.md)
 11. [Lean Philosophy](notes/en/11-lean-philosophy.md)
 12. [Agile](notes/en/12-agile.md)
+13. [Scrum & Kanban](notes/en/13-scrum-and-kanban.md)
 
 ### Espanol
 
@@ -42,6 +43,7 @@ images/  # Supporting diagrams and screenshots
 10. [Proceso de Desarrollo del Producto (Parte 2)](notes/es/10-proceso-de-desarrollo-parte2.md)
 11. [Filosofia Lean](notes/es/11-filosofia-lean.md)
 12. [Agile](notes/es/12-agile.md)
+13. [Scrum & Kanban](notes/es/13-scrum-y-kanban.md)
 
 ---
 
@@ -109,6 +111,8 @@ images/  # Supporting diagrams and screenshots
 | **[Product Development Process](notes/en/09-product-development-process-part1.md)** | 7 phases: Conceive -> Plan -> Develop -> Iterate -> Launch -> Steady State -> Maintain/Kill | Step-by-step guide for building any product — from collecting user problems to deciding whether to maintain or kill it |
 | **[Lean](notes/en/11-lean-philosophy.md)** | Eliminate waste — don't build/spend until demand is validated | Before investing resources in anything — do it yourself first, scale only when you must. Not software-specific |
 | **[Agile](notes/en/12-agile.md)** | Lean applied to software — iterative development in small batches | Build the top 2-5 features, release, get feedback, then decide what's next. The standard for software teams |
+| **[Scrum](notes/en/13-scrum-and-kanban.md)** | Agile framework: sprints (2 weeks) + planning + standups + retros | When you need structured, time-boxed development with predictable delivery |
+| **[Kanban](notes/en/13-scrum-and-kanban.md)** | Agile framework: continuous flow, no sprints, WIP limits | When estimation matters less and work flows continuously (e.g., support teams) |
 
 ### Things to Keep in Mind
 - You are NOT anyone's boss — influence without authority

@@ -56,4 +56,4 @@ Don't build all 10 features. Build the top 2-5, release, get feedback, **then** 
 
 | | |
 |---|---|
-| [<- Previous: Lean Philosophy](11-lean-philosophy.md) | Next: Kanban & Scrum -> |
+| [<- Previous: Lean Philosophy](11-lean-philosophy.md) | [Next: Scrum & Kanban ->](13-scrum-and-kanban.md) |

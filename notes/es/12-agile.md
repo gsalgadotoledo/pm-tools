@@ -56,4 +56,4 @@ No construyas los 10 features. Construye los 2-5 mas importantes, lanza, obtiene
 
 | | |
 |---|---|
-| [<- Anterior: Filosofia Lean](11-filosofia-lean.md) | Siguiente: Kanban & Scrum -> |
+| [<- Anterior: Filosofia Lean](11-filosofia-lean.md) | [Siguiente: Scrum & Kanban ->](13-scrum-y-kanban.md) |
