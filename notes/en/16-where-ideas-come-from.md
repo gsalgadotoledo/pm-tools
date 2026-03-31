@@ -54,4 +54,4 @@ Users often think they need X when they actually need Y. Your job is to find the
 
 | | |
 |---|---|
-| [<- Previous: Agile in Practice & Waterfall Use Cases](15-agile-in-practice-and-waterfall-use-cases.md) | Next: ... -> |
+| [<- Previous: Agile in Practice & Waterfall Use Cases](15-agile-in-practice-and-waterfall-use-cases.md) | [Next: EMUC Framework ->](17-emuc-where-ideas-come-from.md) |

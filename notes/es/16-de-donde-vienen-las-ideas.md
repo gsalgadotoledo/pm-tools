@@ -54,4 +54,4 @@ Los usuarios frecuentemente creen que necesitan X cuando realmente necesitan Y. 
 
 | | |
 |---|---|
-| [<- Anterior: Agile en Practica y Casos Waterfall](15-agile-en-practica-y-casos-waterfall.md) | Siguiente: ... -> |
+| [<- Anterior: Agile en Practica y Casos Waterfall](15-agile-en-practica-y-casos-waterfall.md) | [Siguiente: Framework EMUC ->](17-emuc-de-donde-vienen-las-ideas.md) |
