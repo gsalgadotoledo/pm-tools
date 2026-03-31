@@ -34,6 +34,7 @@ images/  # Supporting diagrams and screenshots
 17. [EMUC: Where Ideas Come From](notes/en/17-emuc-where-ideas-come-from.md)
 18. [Finding the Real Problem](notes/en/18-finding-the-real-problem.md)
 19. [Users vs Customers](notes/en/19-users-vs-customers.md)
+20. [Competitive & Market Analysis](notes/en/20-competitive-and-market-analysis.md)
 
 ### Espanol
 
@@ -56,6 +57,7 @@ images/  # Supporting diagrams and screenshots
 17. [EMUC: De Donde Vienen las Ideas](notes/es/17-emuc-de-donde-vienen-las-ideas.md)
 18. [Encontrar el Problema Real](notes/es/18-encontrar-el-problema-real.md)
 19. [Usuarios vs Clientes](notes/es/19-usuarios-vs-clientes.md)
+20. [Analisis Competitivo y de Mercado](notes/es/20-analisis-competitivo-y-de-mercado.md)
 
 ---
 
@@ -128,6 +130,7 @@ images/  # Supporting diagrams and screenshots
 | **[Waterfall](notes/en/14-waterfall.md)** | Sequential: build everything, then release all at once | When features are interdependent (OS), mission-critical (car braking), or physical (construction) |
 | **[EMUC](notes/en/17-emuc-where-ideas-come-from.md)** | Employees, Metrics, Users, Clients — the 4 sources of ideas | To systematically collect and categorize where product ideas come from based on your PM type |
 | **[The 3 Whys](notes/en/18-finding-the-real-problem.md)** | Ask "why?" at least 3 times on any request | To uncover the real pain point behind feature requests — don't build the symptom fix |
+| **[Market Sizing: Top Down vs Bottom Up](notes/en/20-competitive-and-market-analysis.md)** | Top Down = total market × your %. Bottom Up = existing sales × your capture | Before building a new product/feature — Bottom Up is more reliable (based on real data, not optimistic assumptions) |
 
 ### Core Pain Points: What People Will Never Tell You
 

@@ -33,4 +33,4 @@
 
 | | |
 |---|---|
-| [<- Previous: Finding the Real Problem](18-finding-the-real-problem.md) | Next: ... -> |
+| [<- Previous: Finding the Real Problem](18-finding-the-real-problem.md) | [Next: Competitive & Market Analysis ->](20-competitive-and-market-analysis.md) |
