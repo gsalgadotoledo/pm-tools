@@ -51,4 +51,4 @@ Como PM usaras mayormente **Agile**, pero Waterfall no es inutil — es la herra
 
 | | |
 |---|---|
-| [<- Anterior: Waterfall](14-waterfall.md) | Siguiente: ... -> |
+| [<- Anterior: Waterfall](14-waterfall.md) | [Siguiente: De Donde Vienen las Ideas? ->](16-de-donde-vienen-las-ideas.md) |

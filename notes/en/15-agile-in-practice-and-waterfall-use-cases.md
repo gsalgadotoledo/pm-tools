@@ -50,4 +50,4 @@ As a PM you'll mostly use **Agile**, but Waterfall isn't useless — it's the ri
 
 | | |
 |---|---|
-| [<- Previous: Waterfall](14-waterfall.md) | Next: ... -> |
+| [<- Previous: Waterfall](14-waterfall.md) | [Next: Where Do Ideas Come From? ->](16-where-ideas-come-from.md) |

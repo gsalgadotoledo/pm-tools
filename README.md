@@ -30,6 +30,7 @@ images/  # Supporting diagrams and screenshots
 13. [Scrum & Kanban](notes/en/13-scrum-and-kanban.md)
 14. [Waterfall](notes/en/14-waterfall.md)
 15. [Agile in Practice & Waterfall Use Cases](notes/en/15-agile-in-practice-and-waterfall-use-cases.md)
+16. [Where Do Ideas Come From?](notes/en/16-where-ideas-come-from.md)
 
 ### Espanol
 
@@ -48,6 +49,7 @@ images/  # Supporting diagrams and screenshots
 13. [Scrum & Kanban](notes/es/13-scrum-y-kanban.md)
 14. [Waterfall](notes/es/14-waterfall.md)
 15. [Agile en Practica y Casos Waterfall](notes/es/15-agile-en-practica-y-casos-waterfall.md)
+16. [De Donde Vienen las Ideas?](notes/es/16-de-donde-vienen-las-ideas.md)
 
 ---
 
