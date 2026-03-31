@@ -33,4 +33,4 @@ No hay respuesta definitiva — usa datos publicos (tendencias, revenue, noticia
 
 | | |
 |---|---|
-| [<- Anterior: Ciclo de Vida del Producto](07-ciclo-de-vida-del-producto.md) | Siguiente: ... -> |
+| [<- Anterior: Ciclo de Vida del Producto](07-ciclo-de-vida-del-producto.md) | [Siguiente: Proceso de Desarrollo Parte 1 ->](09-proceso-de-desarrollo-parte1.md) |

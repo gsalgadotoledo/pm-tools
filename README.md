@@ -23,6 +23,7 @@ images/  # Supporting diagrams and screenshots
 6. [A Day in the Life of a PM](notes/en/06-day-in-the-life-of-a-pm.md)
 7. [Product Lifecycle](notes/en/07-product-lifecycle.md)
 8. [Product Lifecycle: Examples](notes/en/08-product-lifecycle-examples.md)
+9. [Product Development Process (Part 1)](notes/en/09-product-development-process-part1.md)
 
 ### Espanol
 
@@ -34,6 +35,7 @@ images/  # Supporting diagrams and screenshots
 6. [Un Dia en la Vida de un PM](notes/es/06-un-dia-en-la-vida-de-un-pm.md)
 7. [Ciclo de Vida del Producto](notes/es/07-ciclo-de-vida-del-producto.md)
 8. [Ciclo de Vida: Ejemplos](notes/es/08-ciclo-de-vida-ejemplos.md)
+9. [Proceso de Desarrollo del Producto (Parte 1)](notes/es/09-proceso-de-desarrollo-parte1.md)
 
 ---
 
@@ -97,7 +99,8 @@ images/  # Supporting diagrams and screenshots
 ### Frameworks & Mental Models
 | Framework | What it is | When to use it |
 |---|---|---|
-| **Product Lifecycle** | 4 phases: Introduction -> Growth -> Maturity -> Decline | To understand where a company/product stands in the market and adapt your PM strategy accordingly — what you prioritize in Introduction (finding market fit) is completely different from Maturity (defending against competitors) |
+| **[Product Lifecycle](notes/en/07-product-lifecycle.md)** | 4 phases: Introduction -> Growth -> Maturity -> Decline | To understand where a company/product stands in the market and adapt strategy — Introduction (find market fit) vs Maturity (defend against competitors) |
+| **[Product Development Process](notes/en/09-product-development-process-part1.md)** | 7 phases: Conceive -> Plan -> Develop -> Iterate -> Launch -> Steady State -> Maintain/Kill | Step-by-step guide for building any product — from collecting user problems to deciding whether to maintain or kill it |
 
 ### Things to Keep in Mind
 - You are NOT anyone's boss — influence without authority

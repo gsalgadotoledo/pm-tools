@@ -33,4 +33,4 @@ There's no definitive answer — use public data (trends, revenue, news) to **fe
 
 | | |
 |---|---|
-| [<- Previous: Product Lifecycle](07-product-lifecycle.md) | Next: ... -> |
+| [<- Previous: Product Lifecycle](07-product-lifecycle.md) | [Next: Product Development Process Part 1 ->](09-product-development-process-part1.md) |
