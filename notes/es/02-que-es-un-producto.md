@@ -61,4 +61,4 @@ Un "producto" para un PM puede ir desde un **producto completo para el consumido
 
 | | |
 |---|---|
-| [<- Anterior: Que es Product Management?](01-que-es-product-management.md) | Siguiente: Tipos de Product Managers -> |
+| [<- Anterior: Que es Product Management?](01-que-es-product-management.md) | [Siguiente: Tipos de Product Managers ->](03-tipos-de-product-managers.md) |

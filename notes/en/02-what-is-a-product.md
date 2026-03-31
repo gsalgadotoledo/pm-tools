@@ -61,4 +61,4 @@ A "product" for a PM can range from an **entire consumer-facing product** to a *
 
 | | |
 |---|---|
-| [<- Previous: What is Product Management?](01-what-is-product-management.md) | Next: Types of Product Managers -> |
+| [<- Previous: What is Product Management?](01-what-is-product-management.md) | [Next: Types of Product Managers ->](03-types-of-product-managers.md) |
