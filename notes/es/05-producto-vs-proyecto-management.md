@@ -47,4 +47,4 @@ Los PMs cambian a "modo ejecucion" al pasar de descubrimiento a desarrollo — a
 
 | | |
 |---|---|
-| [<- Anterior: Roles de PM Detalles y Prioridades](04-roles-de-pm-detalles-y-prioridades.md) | Siguiente: ... -> |
+| [<- Anterior: Roles de PM Detalles y Prioridades](04-roles-de-pm-detalles-y-prioridades.md) | [Siguiente: Un Dia en la Vida de un PM ->](06-un-dia-en-la-vida-de-un-pm.md) |

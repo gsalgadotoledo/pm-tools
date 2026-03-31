@@ -20,6 +20,7 @@ images/  # Supporting diagrams and screenshots
 3. [Types of Product Managers](notes/en/03-types-of-product-managers.md)
 4. [PM Roles: Details & Priorities](notes/en/04-pm-roles-details-and-priorities.md)
 5. [Product vs Project Management](notes/en/05-product-vs-project-management.md)
+6. [A Day in the Life of a PM](notes/en/06-day-in-the-life-of-a-pm.md)
 
 ### Espanol
 
@@ -28,6 +29,7 @@ images/  # Supporting diagrams and screenshots
 3. [Tipos de Product Managers](notes/es/03-tipos-de-product-managers.md)
 4. [Roles de PM: Detalles y Prioridades](notes/es/04-roles-de-pm-detalles-y-prioridades.md)
 5. [Product vs Project Management](notes/es/05-producto-vs-proyecto-management.md)
+6. [Un Dia en la Vida de un PM](notes/es/06-un-dia-en-la-vida-de-un-pm.md)
 
 ---
 

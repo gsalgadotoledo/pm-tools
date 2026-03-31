@@ -47,4 +47,4 @@ PMs switch to "execution mode" once they move from discovery to development — 
 
 | | |
 |---|---|
-| [<- Previous: PM Roles Details & Priorities](04-pm-roles-details-and-priorities.md) | Next: ... -> |
+| [<- Previous: PM Roles Details & Priorities](04-pm-roles-details-and-priorities.md) | [Next: A Day in the Life of a PM ->](06-day-in-the-life-of-a-pm.md) |
