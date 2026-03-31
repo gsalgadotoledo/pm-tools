@@ -26,6 +26,7 @@ images/  # Supporting diagrams and screenshots
 9. [Product Development Process (Part 1)](notes/en/09-product-development-process-part1.md)
 10. [Product Development Process (Part 2)](notes/en/10-product-development-process-part2.md)
 11. [Lean Philosophy](notes/en/11-lean-philosophy.md)
+12. [Agile](notes/en/12-agile.md)
 
 ### Espanol
 
@@ -40,6 +41,7 @@ images/  # Supporting diagrams and screenshots
 9. [Proceso de Desarrollo del Producto (Parte 1)](notes/es/09-proceso-de-desarrollo-parte1.md)
 10. [Proceso de Desarrollo del Producto (Parte 2)](notes/es/10-proceso-de-desarrollo-parte2.md)
 11. [Filosofia Lean](notes/es/11-filosofia-lean.md)
+12. [Agile](notes/es/12-agile.md)
 
 ---
 
@@ -106,6 +108,7 @@ images/  # Supporting diagrams and screenshots
 | **[Product Lifecycle](notes/en/07-product-lifecycle.md)** | 4 phases: Introduction -> Growth -> Maturity -> Decline | To understand where a company/product stands in the market and adapt strategy — Introduction (find market fit) vs Maturity (defend against competitors) |
 | **[Product Development Process](notes/en/09-product-development-process-part1.md)** | 7 phases: Conceive -> Plan -> Develop -> Iterate -> Launch -> Steady State -> Maintain/Kill | Step-by-step guide for building any product — from collecting user problems to deciding whether to maintain or kill it |
 | **[Lean](notes/en/11-lean-philosophy.md)** | Eliminate waste — don't build/spend until demand is validated | Before investing resources in anything — do it yourself first, scale only when you must. Not software-specific |
+| **[Agile](notes/en/12-agile.md)** | Lean applied to software — iterative development in small batches | Build the top 2-5 features, release, get feedback, then decide what's next. The standard for software teams |
 
 ### Things to Keep in Mind
 - You are NOT anyone's boss — influence without authority

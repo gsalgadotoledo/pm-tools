@@ -57,4 +57,4 @@ No gastes recursos hasta que SEPAS que tienes que hacerlo.
 
 | | |
 |---|---|
-| [<- Anterior: Proceso de Desarrollo Parte 2](10-proceso-de-desarrollo-parte2.md) | Siguiente: ... -> |
+| [<- Anterior: Proceso de Desarrollo Parte 2](10-proceso-de-desarrollo-parte2.md) | [Siguiente: Agile ->](12-agile.md) |

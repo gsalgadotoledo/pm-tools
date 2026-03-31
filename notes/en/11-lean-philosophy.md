@@ -57,4 +57,4 @@ Don't spend resources until you KNOW you have to.
 
 | | |
 |---|---|
-| [<- Previous: Product Development Process Part 2](10-product-development-process-part2.md) | Next: ... -> |
+| [<- Previous: Product Development Process Part 2](10-product-development-process-part2.md) | [Next: Agile ->](12-agile.md) |
