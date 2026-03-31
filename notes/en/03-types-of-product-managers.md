@@ -70,4 +70,4 @@
 
 | | |
 |---|---|
-| [<- Previous: What is a Product?](02-what-is-a-product.md) | Next: Types of Product Managers -> |
+| [<- Previous: What is a Product?](02-what-is-a-product.md) | [Next: PM Roles Details & Priorities ->](04-pm-roles-details-and-priorities.md) |
