@@ -5,10 +5,20 @@ Personal study notes for Product Management. Each file covers a key topic with s
 ## Structure
 
 ```
-notes/       # Markdown notes organized by topic
-images/      # Supporting diagrams and screenshots
+notes/
+  en/    # English notes
+  es/    # Spanish notes
+images/  # Supporting diagrams and screenshots
 ```
 
 ## Notes Index
 
-1. [What is Product Management?](notes/01-what-is-product-management.md)
+### English
+
+1. [What is Product Management?](notes/en/01-what-is-product-management.md)
+2. [What is a Product?](notes/en/02-what-is-a-product.md)
+
+### Espanol
+
+1. [Que es Product Management?](notes/es/01-que-es-product-management.md)
+2. [Que es un Producto?](notes/es/02-que-es-un-producto.md)

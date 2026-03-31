@@ -2,7 +2,7 @@
 
 > "The ambiguity of the product management role is near to its essence."
 
-![PM Venn Diagram - UX, Tech, Business](../images/pm-venn-diagram.png)
+![PM Venn Diagram - UX, Tech, Business](../../images/pm-venn-diagram.png)
 
 The Product Manager sits at the intersection of **UX**, **Tech**, and **Business**.
 
@@ -70,3 +70,9 @@ The PM is a **communications hub**, **prioritizer**, **researcher**, and **prese
 <!-- Add your personal notes, reflections, and questions here -->
 
 -
+
+---
+
+| | |
+|---|---|
+| | [Next: What is a Product? ->](02-what-is-a-product.md) |
