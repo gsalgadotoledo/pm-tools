@@ -77,4 +77,4 @@ Simple but **most people skip it.**
 
 | | |
 |---|---|
-| [<- Previous: EMUC Framework](17-emuc-where-ideas-come-from.md) | Next: ... -> |
+| [<- Previous: EMUC Framework](17-emuc-where-ideas-come-from.md) | [Next: Users vs Customers ->](19-users-vs-customers.md) |

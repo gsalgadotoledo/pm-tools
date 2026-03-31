@@ -77,4 +77,4 @@ Simple pero **la mayoria de la gente lo omite.**
 
 | | |
 |---|---|
-| [<- Anterior: Framework EMUC](17-emuc-de-donde-vienen-las-ideas.md) | Siguiente: ... -> |
+| [<- Anterior: Framework EMUC](17-emuc-de-donde-vienen-las-ideas.md) | [Siguiente: Usuarios vs Clientes ->](19-usuarios-vs-clientes.md) |

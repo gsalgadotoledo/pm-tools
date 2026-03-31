@@ -33,6 +33,7 @@ images/  # Supporting diagrams and screenshots
 16. [Where Do Ideas Come From?](notes/en/16-where-ideas-come-from.md)
 17. [EMUC: Where Ideas Come From](notes/en/17-emuc-where-ideas-come-from.md)
 18. [Finding the Real Problem](notes/en/18-finding-the-real-problem.md)
+19. [Users vs Customers](notes/en/19-users-vs-customers.md)
 
 ### Espanol
 
@@ -54,6 +55,7 @@ images/  # Supporting diagrams and screenshots
 16. [De Donde Vienen las Ideas?](notes/es/16-de-donde-vienen-las-ideas.md)
 17. [EMUC: De Donde Vienen las Ideas](notes/es/17-emuc-de-donde-vienen-las-ideas.md)
 18. [Encontrar el Problema Real](notes/es/18-encontrar-el-problema-real.md)
+19. [Usuarios vs Clientes](notes/es/19-usuarios-vs-clientes.md)
 
 ---
 
