@@ -32,6 +32,7 @@ images/  # Supporting diagrams and screenshots
 15. [Agile in Practice & Waterfall Use Cases](notes/en/15-agile-in-practice-and-waterfall-use-cases.md)
 16. [Where Do Ideas Come From?](notes/en/16-where-ideas-come-from.md)
 17. [EMUC: Where Ideas Come From](notes/en/17-emuc-where-ideas-come-from.md)
+18. [Finding the Real Problem](notes/en/18-finding-the-real-problem.md)
 
 ### Espanol
 
@@ -52,6 +53,7 @@ images/  # Supporting diagrams and screenshots
 15. [Agile en Practica y Casos Waterfall](notes/es/15-agile-en-practica-y-casos-waterfall.md)
 16. [De Donde Vienen las Ideas?](notes/es/16-de-donde-vienen-las-ideas.md)
 17. [EMUC: De Donde Vienen las Ideas](notes/es/17-emuc-de-donde-vienen-las-ideas.md)
+18. [Encontrar el Problema Real](notes/es/18-encontrar-el-problema-real.md)
 
 ---
 
@@ -123,6 +125,7 @@ images/  # Supporting diagrams and screenshots
 | **[Kanban](notes/en/13-scrum-and-kanban.md)** | Agile framework: continuous flow, no sprints, WIP limits | When estimation matters less and work flows continuously (e.g., support teams) |
 | **[Waterfall](notes/en/14-waterfall.md)** | Sequential: build everything, then release all at once | When features are interdependent (OS), mission-critical (car braking), or physical (construction) |
 | **[EMUC](notes/en/17-emuc-where-ideas-come-from.md)** | Employees, Metrics, Users, Clients — the 4 sources of ideas | To systematically collect and categorize where product ideas come from based on your PM type |
+| **[The 3 Whys](notes/en/18-finding-the-real-problem.md)** | Ask "why?" at least 3 times on any request | To uncover the real pain point behind feature requests — don't build the symptom fix |
 
 ### Things to Keep in Mind
 - You are NOT anyone's boss — influence without authority

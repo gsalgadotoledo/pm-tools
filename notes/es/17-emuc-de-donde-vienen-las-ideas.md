@@ -44,4 +44,4 @@
 
 | | |
 |---|---|
-| [<- Anterior: De Donde Vienen las Ideas?](16-de-donde-vienen-las-ideas.md) | Siguiente: ... -> |
+| [<- Anterior: De Donde Vienen las Ideas?](16-de-donde-vienen-las-ideas.md) | [Siguiente: Encontrar el Problema Real ->](18-encontrar-el-problema-real.md) |
