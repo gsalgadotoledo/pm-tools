@@ -59,4 +59,4 @@ Conceive -> Plan -> Develop -> Iterate -> Launch -> Steady State -> Maintain/Kil
 
 | | |
 |---|---|
-| [<- Previous: Product Lifecycle Examples](08-product-lifecycle-examples.md) | Next: Product Development Process Part 2 -> |
+| [<- Previous: Product Lifecycle Examples](08-product-lifecycle-examples.md) | [Next: Product Development Process Part 2 ->](10-product-development-process-part2.md) |

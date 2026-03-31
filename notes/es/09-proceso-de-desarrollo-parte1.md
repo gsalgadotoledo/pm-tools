@@ -59,4 +59,4 @@ Concebir -> Planear -> Desarrollar -> Iterar -> Lanzar -> Estado Estable -> Mant
 
 | | |
 |---|---|
-| [<- Anterior: Ciclo de Vida Ejemplos](08-ciclo-de-vida-ejemplos.md) | Siguiente: Proceso de Desarrollo Parte 2 -> |
+| [<- Anterior: Ciclo de Vida Ejemplos](08-ciclo-de-vida-ejemplos.md) | [Siguiente: Proceso de Desarrollo Parte 2 ->](10-proceso-de-desarrollo-parte2.md) |

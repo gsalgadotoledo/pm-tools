@@ -24,6 +24,7 @@ images/  # Supporting diagrams and screenshots
 7. [Product Lifecycle](notes/en/07-product-lifecycle.md)
 8. [Product Lifecycle: Examples](notes/en/08-product-lifecycle-examples.md)
 9. [Product Development Process (Part 1)](notes/en/09-product-development-process-part1.md)
+10. [Product Development Process (Part 2)](notes/en/10-product-development-process-part2.md)
 
 ### Espanol
 
@@ -36,6 +37,7 @@ images/  # Supporting diagrams and screenshots
 7. [Ciclo de Vida del Producto](notes/es/07-ciclo-de-vida-del-producto.md)
 8. [Ciclo de Vida: Ejemplos](notes/es/08-ciclo-de-vida-ejemplos.md)
 9. [Proceso de Desarrollo del Producto (Parte 1)](notes/es/09-proceso-de-desarrollo-parte1.md)
+10. [Proceso de Desarrollo del Producto (Parte 2)](notes/es/10-proceso-de-desarrollo-parte2.md)
 
 ---
 
