@@ -73,4 +73,4 @@
 
 | | |
 |---|---|
-| [<- Anterior: Product vs Project Management](05-producto-vs-proyecto-management.md) | Siguiente: ... -> |
+| [<- Anterior: Product vs Project Management](05-producto-vs-proyecto-management.md) | [Siguiente: Ciclo de Vida del Producto ->](07-ciclo-de-vida-del-producto.md) |
