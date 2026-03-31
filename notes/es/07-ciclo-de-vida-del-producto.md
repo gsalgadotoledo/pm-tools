@@ -59,4 +59,4 @@ Revenue
 
 | | |
 |---|---|
-| [<- Anterior: Un Dia en la Vida de un PM](06-un-dia-en-la-vida-de-un-pm.md) | Siguiente: ... -> |
+| [<- Anterior: Un Dia en la Vida de un PM](06-un-dia-en-la-vida-de-un-pm.md) | [Siguiente: Ciclo de Vida Ejemplos ->](08-ciclo-de-vida-ejemplos.md) |

@@ -59,4 +59,4 @@ There's **no definitive guide** to tell exactly where a company/product is withi
 
 | | |
 |---|---|
-| [<- Previous: A Day in the Life of a PM](06-day-in-the-life-of-a-pm.md) | Next: ... -> |
+| [<- Previous: A Day in the Life of a PM](06-day-in-the-life-of-a-pm.md) | [Next: Product Lifecycle Examples ->](08-product-lifecycle-examples.md) |
