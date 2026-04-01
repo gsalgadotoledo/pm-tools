@@ -82,4 +82,4 @@ Que tan rapido puede tu competidor construir y lanzar?
 
 | | |
 |---|---|
-| [<- Anterior: 5 Criterios Parte 1](24-analisis-competidores-5-criterios-parte1.md) | Siguiente: ... -> |
+| [<- Anterior: 5 Criterios Parte 1](24-analisis-competidores-5-criterios-parte1.md) | [Siguiente: Tablas de Features ->](26-tablas-de-features.md) |

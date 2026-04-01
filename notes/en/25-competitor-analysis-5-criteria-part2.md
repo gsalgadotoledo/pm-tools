@@ -82,4 +82,4 @@ How fast can your competitor build and ship?
 
 | | |
 |---|---|
-| [<- Previous: 5 Criteria Part 1](24-competitor-analysis-5-criteria-part1.md) | Next: ... -> |
+| [<- Previous: 5 Criteria Part 1](24-competitor-analysis-5-criteria-part1.md) | [Next: Feature Tables ->](26-feature-tables.md) |

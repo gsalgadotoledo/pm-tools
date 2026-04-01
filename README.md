@@ -40,6 +40,7 @@ images/  # Supporting diagrams and screenshots
 23. [Four Types of Competitors](notes/en/23-four-types-of-competitors.md)
 24. [Competitor Analysis: 5 Criteria Part 1](notes/en/24-competitor-analysis-5-criteria-part1.md)
 25. [Competitor Analysis: 5 Criteria Part 2](notes/en/25-competitor-analysis-5-criteria-part2.md)
+26. [Feature Tables](notes/en/26-feature-tables.md)
 
 ### Espanol
 
@@ -68,6 +69,7 @@ images/  # Supporting diagrams and screenshots
 23. [Cuatro Tipos de Competidores](notes/es/23-cuatro-tipos-de-competidores.md)
 24. [Analisis de Competidores: 5 Criterios Parte 1](notes/es/24-analisis-competidores-5-criterios-parte1.md)
 25. [Analisis de Competidores: 5 Criterios Parte 2](notes/es/25-analisis-competidores-5-criterios-parte2.md)
+26. [Tablas de Features](notes/es/26-tablas-de-features.md)
 
 ---
 
@@ -143,6 +145,7 @@ images/  # Supporting diagrams and screenshots
 | **[Market Sizing: Top Down vs Bottom Up](notes/en/20-competitive-and-market-analysis.md)** | Top Down = total market × your %. Bottom Up = existing sales × your capture | Before building a new product/feature — Bottom Up is more reliable (based on real data, not optimistic assumptions) |
 | **[Competitor Tiers](notes/en/23-four-types-of-competitors.md)** | 4 types: Direct (T1) → Indirect (T2) → Potential (T3) → Substitute (T4) | To organize competitors by threat level and decide where to focus your competitive strategy |
 | **[5 Competitor Criteria](notes/en/24-competitor-analysis-5-criteria-part1.md)** | Product Core, User Base, Design, Brand, Speed | Evaluate each competitor on these 5 dimensions to know where you can win and where to avoid competing |
+| **[Feature Table](notes/en/26-feature-tables.md)** | Grid: your product vs competitors across features/dimensions | Before launching — quick visual to see if you're competitive or have gaps to fill |
 
 ### Core Pain Points: What People Will Never Tell You
 
