@@ -62,4 +62,4 @@ Reemplaza las categorias "Conocidos/Desconocidos" con estos 4 tiers en tu hoja d
 
 | | |
 |---|---|
-| [<- Anterior: Como Encontrar Competidores](22-como-encontrar-competidores.md) | Siguiente: ... -> |
+| [<- Anterior: Como Encontrar Competidores](22-como-encontrar-competidores.md) | [Siguiente: 5 Criterios Parte 1 ->](24-analisis-competidores-5-criterios-parte1.md) |

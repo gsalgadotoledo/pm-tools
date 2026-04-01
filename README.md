@@ -38,6 +38,7 @@ images/  # Supporting diagrams and screenshots
 21. [Finding Competitors](notes/en/21-finding-competitors.md)
 22. [How to Find Competitors](notes/en/22-how-to-find-competitors.md)
 23. [Four Types of Competitors](notes/en/23-four-types-of-competitors.md)
+24. [Competitor Analysis: 5 Criteria Part 1](notes/en/24-competitor-analysis-5-criteria-part1.md)
 
 ### Espanol
 
@@ -64,6 +65,7 @@ images/  # Supporting diagrams and screenshots
 21. [Encontrar Competidores](notes/es/21-encontrar-competidores.md)
 22. [Como Encontrar Competidores](notes/es/22-como-encontrar-competidores.md)
 23. [Cuatro Tipos de Competidores](notes/es/23-cuatro-tipos-de-competidores.md)
+24. [Analisis de Competidores: 5 Criterios Parte 1](notes/es/24-analisis-competidores-5-criterios-parte1.md)
 
 ---
 

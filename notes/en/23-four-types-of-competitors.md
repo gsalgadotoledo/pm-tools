@@ -62,4 +62,4 @@ Replace "Known/Unknown" categories with these 4 tiers in your spreadsheet.
 
 | | |
 |---|---|
-| [<- Previous: How to Find Competitors](22-how-to-find-competitors.md) | Next: ... -> |
+| [<- Previous: How to Find Competitors](22-how-to-find-competitors.md) | [Next: 5 Criteria Part 1 ->](24-competitor-analysis-5-criteria-part1.md) |
