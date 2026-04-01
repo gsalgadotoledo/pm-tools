@@ -59,4 +59,4 @@ You **can't** make that call without knowing your competitors.
 
 | | |
 |---|---|
-| [<- Previous: Competitive & Market Analysis](20-competitive-and-market-analysis.md) | Next: ... -> |
+| [<- Previous: Competitive & Market Analysis](20-competitive-and-market-analysis.md) | [Next: How to Find Competitors ->](22-how-to-find-competitors.md) |

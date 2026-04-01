@@ -59,4 +59,4 @@ Como PM, decides cual oportunidad es mas probable de:
 
 | | |
 |---|---|
-| [<- Anterior: Analisis Competitivo y de Mercado](20-analisis-competitivo-y-de-mercado.md) | Siguiente: ... -> |
+| [<- Anterior: Analisis Competitivo y de Mercado](20-analisis-competitivo-y-de-mercado.md) | [Siguiente: Como Encontrar Competidores ->](22-como-encontrar-competidores.md) |

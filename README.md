@@ -36,6 +36,7 @@ images/  # Supporting diagrams and screenshots
 19. [Users vs Customers](notes/en/19-users-vs-customers.md)
 20. [Competitive & Market Analysis](notes/en/20-competitive-and-market-analysis.md)
 21. [Finding Competitors](notes/en/21-finding-competitors.md)
+22. [How to Find Competitors](notes/en/22-how-to-find-competitors.md)
 
 ### Espanol
 
@@ -60,6 +61,7 @@ images/  # Supporting diagrams and screenshots
 19. [Usuarios vs Clientes](notes/es/19-usuarios-vs-clientes.md)
 20. [Analisis Competitivo y de Mercado](notes/es/20-analisis-competitivo-y-de-mercado.md)
 21. [Encontrar Competidores](notes/es/21-encontrar-competidores.md)
+22. [Como Encontrar Competidores](notes/es/22-como-encontrar-competidores.md)
 
 ---
 
