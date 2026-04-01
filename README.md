@@ -11,6 +11,44 @@ notes/
 images/  # Supporting diagrams and screenshots
 ```
 
+---
+
+## Quick Start: Your First Week as PM
+
+> [Full details](notes/en/72-first-days-as-pm.md) | [Detalles completos](notes/es/72-primeros-dias-como-pm.md)
+
+### What to Do First (In Order)
+
+1. **Schedule 1-on-1s** with leaders of every major team — ask: what are your goals? what are your challenges?
+2. **Deep dive with lead engineer** — understand architecture, databases, tech challenges, how data is stored
+3. **Talk to users** — join sales calls, sit with support, search Twitter/Reddit for what people say
+4. **Read every internal doc** — past epic specs, releases, sales decks, presentations
+5. **Review existing data/metrics** — meet data team, understand what's tracked and what's missing
+6. **Meet with your boss (Head of Product / CEO)** — align on expectations, metrics, fears, competition
+
+### What to Ask Stakeholders & Leadership
+
+| Question | Why it matters |
+|---|---|
+| "What metrics are you trying to optimize?" | Align your work to what the company actually cares about |
+| "What are you most afraid of in the next year?" | Understand the real priorities and competitive threats |
+| "What would success look like for my role in 6 months?" | Set clear expectations — avoid surprises |
+| "What's the biggest problem no one is solving?" | Find high-impact opportunities others have missed |
+| "How do you prefer to be communicated with?" | Executives: 2 bullet points. Engineers: detailed specs. Match their style |
+| "What has been tried before and failed?" | Avoid repeating past mistakes — learn the history |
+
+### The PM Mindset (Always Remember)
+
+> **You are almost always wrong — and so is everyone else. Until you prove it with data.**
+
+- Prove through **data**, not gut feeling
+- Always ask **why** (at least 3 times)
+- Think about the **user's real problem**, not the requested solution
+- Be willing to be **proven wrong** — that's how you learn
+- The request is the **symptom** — your job is to find the **disease**
+
+---
+
 ## Notes Index
 
 ### English
@@ -71,6 +109,23 @@ images/  # Supporting diagrams and screenshots
 54. [Metrics: Real World Examples](notes/en/54-metrics-real-world-examples.md)
 55. [Metrics Categories](notes/en/55-metrics-categories.md)
 56. [Picking Good Metrics](notes/en/56-picking-good-metrics.md)
+57. [HEART Metrics Framework](notes/en/57-heart-metrics-framework.md)
+58. [AARRR Pirate Metrics](notes/en/58-aarrr-pirate-metrics.md)
+59. [Metrics Tools](notes/en/59-metrics-tools.md)
+60. [Vision to Epics Hierarchy](notes/en/60-vision-to-epics-hierarchy.md)
+61. [User Stories & Acceptance Criteria](notes/en/61-user-stories-and-acceptance-criteria.md)
+62. [Estimation & Velocity](notes/en/62-estimation-and-velocity.md)
+63. [Roadmapping](notes/en/63-roadmapping.md)
+64. [Prioritization Methods](notes/en/64-prioritization-methods.md)
+65. [Communication Skills](notes/en/65-communication-skills.md)
+66. [Working with Engineers & Designers](notes/en/66-working-with-engineers-and-designers.md)
+67. [Working with Executives & Stakeholders](notes/en/67-working-with-executives-and-stakeholders.md)
+68. [Prioritization 2026 Update](notes/en/68-prioritization-2026-update.md)
+69. [Preparing for a PM Job](notes/en/69-preparing-for-pm-job.md)
+70. [Side Projects for PM](notes/en/70-side-projects-for-pm.md)
+71. [Building Your PM Brand](notes/en/71-building-your-pm-brand.md)
+72. [First Days as PM](notes/en/72-first-days-as-pm.md)
+73. [The PM Mindset](notes/en/73-the-pm-mindset.md)
 - [Tools 2026 Update](notes/en/tools-2026-update.md)
 
 ### Espanol
@@ -209,6 +264,13 @@ images/  # Supporting diagrams and screenshots
 | **[5 Competitor Criteria](notes/en/24-competitor-analysis-5-criteria-part1.md)** | Product Core, User Base, Design, Brand, Speed | Evaluate each competitor on these 5 dimensions to know where you can win and where to avoid competing |
 | **[Feature Table](notes/en/26-feature-tables.md)** | Grid: your product vs competitors across features/dimensions | Before launching — quick visual to see if you're competitive or have gaps to fill |
 | **[MVP Experiment](notes/en/31-mvps.md)** | Assumption → Hypothesis → Minimum build → Test → Validated Learning | Before investing resources — validate the idea with minimum effort. MVP ≠ prototype, it's a process |
+| **[HEART Metrics](notes/en/57-heart-metrics-framework.md)** | Happiness, Engagement, Adoption, Retention, Task Success | Choosing what metrics to track across the customer journey (Google Ventures) |
+| **[AARRR Pirate Metrics](notes/en/58-aarrr-pirate-metrics.md)** | Acquisition → Activation → Retention → Referral → Revenue | Growth funnel metrics for startups/SaaS seeking investment (Dave McClure, 500 Startups) |
+| **[Risk vs Difficulty Matrix](notes/en/37-risk-vs-difficulty-matrix.md)** | 2x2: High/Low Risk × High/Low Difficulty | Prioritize which assumptions to test first — start with High Risk + Low Difficulty |
+| **[MoSCoW](notes/en/64-prioritization-methods.md)** | Must, Should, Could, Would | Quick categorical prioritization — imagine building nothing, what's the worst that happens? |
+| **[RICE Scoring](notes/en/64-prioritization-methods.md)** | (Reach × Impact × Confidence) / Effort | Data-driven feature scoring — gold standard for quantitative prioritization |
+| **[Value vs Effort 2×2](notes/en/64-prioritization-methods.md)** | Plot features on Value (Y) vs Effort (X) grid | Visual prioritization for executive communication — do "Quick Wins" first |
+| **[Opportunity Solution Trees](notes/en/64-prioritization-methods.md)** | Map opportunities to outcomes, evaluate solutions per opportunity | Best practice for discovery — by Teresa Torres |
 
 ### Metrics by Company Type
 
