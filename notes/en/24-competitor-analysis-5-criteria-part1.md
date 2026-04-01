@@ -56,4 +56,4 @@
 
 | | |
 |---|---|
-| [<- Previous: Four Types of Competitors](23-four-types-of-competitors.md) | Next: 5 Criteria Part 2 -> |
+| [<- Previous: Four Types of Competitors](23-four-types-of-competitors.md) | [Next: 5 Criteria Part 2 ->](25-competitor-analysis-5-criteria-part2.md) |
