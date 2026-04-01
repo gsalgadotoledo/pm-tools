@@ -66,4 +66,4 @@ Ventas actuales de productos similares → estimar que % puedes capturar
 
 | | |
 |---|---|
-| [<- Anterior: Usuarios vs Clientes](19-usuarios-vs-clientes.md) | Siguiente: ... -> |
+| [<- Anterior: Usuarios vs Clientes](19-usuarios-vs-clientes.md) | [Siguiente: Encontrar Competidores ->](21-encontrar-competidores.md) |

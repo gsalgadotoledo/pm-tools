@@ -66,4 +66,4 @@ Current sales of similar products → estimate what % you can capture
 
 | | |
 |---|---|
-| [<- Previous: Users vs Customers](19-users-vs-customers.md) | Next: ... -> |
+| [<- Previous: Users vs Customers](19-users-vs-customers.md) | [Next: Finding Competitors ->](21-finding-competitors.md) |
