@@ -54,4 +54,4 @@ Un cuadro comparativo: **tu producto vs competidores** en multiples dimensiones.
 
 | | |
 |---|---|
-| [<- Anterior: 5 Criterios Parte 2](25-analisis-competidores-5-criterios-parte2.md) | Siguiente: ... -> |
+| [<- Anterior: 5 Criterios Parte 2](25-analisis-competidores-5-criterios-parte2.md) | [Siguiente: Construir Tablas de Features ->](27-construir-tablas-de-features.md) |

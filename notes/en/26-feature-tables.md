@@ -54,4 +54,4 @@ A comparison chart: **your product vs competitors** across multiple dimensions.
 
 | | |
 |---|---|
-| [<- Previous: 5 Criteria Part 2](25-competitor-analysis-5-criteria-part2.md) | Next: ... -> |
+| [<- Previous: 5 Criteria Part 2](25-competitor-analysis-5-criteria-part2.md) | [Next: Building Feature Tables ->](27-building-feature-tables.md) |

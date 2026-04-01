@@ -41,6 +41,7 @@ images/  # Supporting diagrams and screenshots
 24. [Competitor Analysis: 5 Criteria Part 1](notes/en/24-competitor-analysis-5-criteria-part1.md)
 25. [Competitor Analysis: 5 Criteria Part 2](notes/en/25-competitor-analysis-5-criteria-part2.md)
 26. [Feature Tables](notes/en/26-feature-tables.md)
+27. [Building Feature Tables](notes/en/27-building-feature-tables.md)
 
 ### Espanol
 
@@ -70,6 +71,7 @@ images/  # Supporting diagrams and screenshots
 24. [Analisis de Competidores: 5 Criterios Parte 1](notes/es/24-analisis-competidores-5-criterios-parte1.md)
 25. [Analisis de Competidores: 5 Criterios Parte 2](notes/es/25-analisis-competidores-5-criterios-parte2.md)
 26. [Tablas de Features](notes/es/26-tablas-de-features.md)
+27. [Construir Tablas de Features](notes/es/27-construir-tablas-de-features.md)
 
 ---
 
