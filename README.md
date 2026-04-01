@@ -42,6 +42,7 @@ images/  # Supporting diagrams and screenshots
 25. [Competitor Analysis: 5 Criteria Part 2](notes/en/25-competitor-analysis-5-criteria-part2.md)
 26. [Feature Tables](notes/en/26-feature-tables.md)
 27. [Building Feature Tables](notes/en/27-building-feature-tables.md)
+28. [Feature Table: GoPro Example](notes/en/28-feature-table-gopro-example.md)
 
 ### Espanol
 
@@ -72,6 +73,7 @@ images/  # Supporting diagrams and screenshots
 25. [Analisis de Competidores: 5 Criterios Parte 2](notes/es/25-analisis-competidores-5-criterios-parte2.md)
 26. [Tablas de Features](notes/es/26-tablas-de-features.md)
 27. [Construir Tablas de Features](notes/es/27-construir-tablas-de-features.md)
+28. [Feature Table: Ejemplo GoPro](notes/es/28-feature-table-ejemplo-gopro.md)
 
 ---
 

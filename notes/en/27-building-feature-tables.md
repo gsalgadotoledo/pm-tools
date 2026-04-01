@@ -60,4 +60,4 @@ Put what **your target customer cares about**, not what competitors think is imp
 
 | | |
 |---|---|
-| [<- Previous: Feature Tables](26-feature-tables.md) | Next: ... -> |
+| [<- Previous: Feature Tables](26-feature-tables.md) | [Next: Feature Table GoPro Example ->](28-feature-table-gopro-example.md) |

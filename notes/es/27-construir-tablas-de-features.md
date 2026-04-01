@@ -60,4 +60,4 @@ Pon lo que **tu cliente objetivo valora**, no lo que los competidores creen impo
 
 | | |
 |---|---|
-| [<- Anterior: Tablas de Features](26-tablas-de-features.md) | Siguiente: ... -> |
+| [<- Anterior: Tablas de Features](26-tablas-de-features.md) | [Siguiente: Feature Table Ejemplo GoPro ->](28-feature-table-ejemplo-gopro.md) |
