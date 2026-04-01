@@ -46,6 +46,32 @@ images/  # Supporting diagrams and screenshots
 29. [Feature Table: Proposed Feature](notes/en/29-feature-table-proposed-feature.md)
 30. [Tracking Competitors](notes/en/30-tracking-competitors.md)
 31. [MVPs](notes/en/31-mvps.md)
+32. [MVPs for Product Managers](notes/en/32-mvps-for-product-managers.md)
+33. [MVP Experiment: 7 Steps](notes/en/33-mvp-experiment-7-steps.md)
+34. [Identifying Assumptions](notes/en/34-identifying-assumptions.md)
+35. [Assumptions Example: Zirx](notes/en/35-assumptions-example-zirx.md)
+36. [Ranking Risky Assumptions](notes/en/36-ranking-risky-assumptions.md)
+37. [Risk vs Difficulty Matrix](notes/en/37-risk-vs-difficulty-matrix.md)
+38. [Building Hypotheses](notes/en/38-building-hypotheses.md)
+39. [Hypothesis Formulas](notes/en/39-hypothesis-formulas.md)
+40. [Hypothesis Example: Zirx](notes/en/40-hypothesis-example-zirx.md)
+41. [Minimum Criteria for Success](notes/en/41-minimum-criteria-for-success.md)
+42. [MCS Example: Twitter](notes/en/42-mcs-example-twitter.md)
+43. [MCS Startups & MVP Types Intro](notes/en/43-mcs-startups-and-mvp-types.md)
+44. [MVP Types Part 1](notes/en/44-mvp-types-part1.md)
+45. [MVP Types Part 2](notes/en/45-mvp-types-part2.md)
+46. [MVP Types Part 3](notes/en/46-mvp-types-part3.md)
+47. [Email MVP Deep Dive](notes/en/47-email-mvp-deep-dive.md)
+48. [MVPs at Big Companies](notes/en/48-mvps-at-big-companies.md)
+49. [Wireframing Intro](notes/en/49-wireframing-intro.md)
+50. [Wireframe vs Mockup vs Prototype](notes/en/50-wireframe-mockup-prototype.md)
+51. [Sketching Wireframes](notes/en/51-sketching-wireframes.md)
+52. [Sketching Practice: Mobile](notes/en/52-sketching-practice-mobile.md)
+53. [Introduction to Metrics](notes/en/53-intro-to-metrics.md)
+54. [Metrics: Real World Examples](notes/en/54-metrics-real-world-examples.md)
+55. [Metrics Categories](notes/en/55-metrics-categories.md)
+56. [Picking Good Metrics](notes/en/56-picking-good-metrics.md)
+- [Tools 2026 Update](notes/en/tools-2026-update.md)
 
 ### Espanol
 
@@ -80,6 +106,32 @@ images/  # Supporting diagrams and screenshots
 29. [Feature Table: Feature Propuesto](notes/es/29-feature-table-feature-propuesto.md)
 30. [Rastrear Competidores](notes/es/30-rastrear-competidores.md)
 31. [MVPs](notes/es/31-mvps.md)
+32. [MVPs para Product Managers](notes/es/32-mvps-para-product-managers.md)
+33. [Experimento MVP: 7 Pasos](notes/es/33-experimento-mvp-7-pasos.md)
+34. [Identificar Supuestos](notes/es/34-identificar-supuestos.md)
+35. [Ejemplo de Supuestos: Zirx](notes/es/35-supuestos-ejemplo-zirx.md)
+36. [Ranking de Supuestos Riesgosos](notes/es/36-ranking-supuestos-riesgosos.md)
+37. [Matriz Riesgo vs Dificultad](notes/es/37-matriz-riesgo-vs-dificultad.md)
+38. [Construir Hipotesis](notes/es/38-construir-hipotesis.md)
+39. [Formulas de Hipotesis](notes/es/39-formulas-de-hipotesis.md)
+40. [Hipotesis Ejemplo: Zirx](notes/es/40-hipotesis-ejemplo-zirx.md)
+41. [Criterio Minimo de Exito](notes/es/41-criterio-minimo-de-exito.md)
+42. [Ejemplo MCS: Twitter](notes/es/42-mcs-ejemplo-twitter.md)
+43. [MCS Startups y Tipos de MVP](notes/es/43-mcs-startups-y-tipos-de-mvp.md)
+44. [Tipos de MVP Parte 1](notes/es/44-tipos-de-mvp-parte1.md)
+45. [Tipos de MVP Parte 2](notes/es/45-tipos-de-mvp-parte2.md)
+46. [Tipos de MVP Parte 3](notes/es/46-tipos-de-mvp-parte3.md)
+47. [Email MVP Detalle](notes/es/47-email-mvp-detalle.md)
+48. [MVPs en Grandes Empresas](notes/es/48-mvps-en-grandes-empresas.md)
+49. [Wireframing Intro](notes/es/49-wireframing-intro.md)
+50. [Wireframe vs Mockup vs Prototipo](notes/es/50-wireframe-mockup-prototipo.md)
+51. [Sketching de Wireframes](notes/es/51-sketching-wireframes.md)
+52. [Practica de Sketching: Mobile](notes/es/52-practica-sketching-mobile.md)
+53. [Introduccion a Metricas](notes/es/53-intro-a-metricas.md)
+54. [Metricas: Ejemplos Reales](notes/es/54-metricas-ejemplos-reales.md)
+55. [Categorias de Metricas](notes/es/55-categorias-de-metricas.md)
+56. [Elegir Buenas Metricas](notes/es/56-elegir-buenas-metricas.md)
+- [Herramientas 2026](notes/es/tools-2026-actualizacion.md)
 
 ---
 
@@ -157,6 +209,37 @@ images/  # Supporting diagrams and screenshots
 | **[5 Competitor Criteria](notes/en/24-competitor-analysis-5-criteria-part1.md)** | Product Core, User Base, Design, Brand, Speed | Evaluate each competitor on these 5 dimensions to know where you can win and where to avoid competing |
 | **[Feature Table](notes/en/26-feature-tables.md)** | Grid: your product vs competitors across features/dimensions | Before launching — quick visual to see if you're competitive or have gaps to fill |
 | **[MVP Experiment](notes/en/31-mvps.md)** | Assumption → Hypothesis → Minimum build → Test → Validated Learning | Before investing resources — validate the idea with minimum effort. MVP ≠ prototype, it's a process |
+
+### Metrics by Company Type
+
+> [Full metrics notes](notes/en/55-metrics-categories.md) | The customer lifecycle: Finding → Signing up → Using → Happy? → Paying? → Referring?
+
+#### B2C (Consumer) — e.g., Twitter, Facebook, YouTube
+| Category | Key Metrics | Example |
+|---|---|---|
+| **Growth** | New users/month, MAU, DAU, activated users, users by source | Twitter: 10M new users/month |
+| **Engagement** | Actions/session, time on site, content created | YouTube: avg viewing time/user, views (30sec+) |
+| **Retention** | Retained users %, resurrected users % | 60% of users return next month = 60% retention |
+| **Happiness** | NPS score, app store rating, support complaints | NPS: "Rate 1-10 how likely to recommend" (under 7 = zero) |
+| **Revenue** | Ad revenue, LTV, CAC | Facebook: revenue per user from ads |
+
+#### B2B / SaaS — e.g., Salesforce, Dropbox, Slack
+| Category | Key Metrics | Example |
+|---|---|---|
+| **Growth** | New accounts, activated accounts, trial-to-paid conversion | Dropbox: free → paid conversion rate |
+| **Engagement** | DAU/MAU ratio, features used/session, API calls | Slack: messages sent/team/day |
+| **Retention** | Churn rate, net revenue retention, logo retention | 5% monthly churn = losing half your customers/year |
+| **Happiness** | NPS, CSAT, support ticket volume, time to resolution | Enterprise CSAT surveys after onboarding |
+| **Revenue** | **MRR**, **ARR**, LTV, CAC, LTV:CAC ratio | 100 customers × $100/mo = $10K MRR |
+
+#### Key Revenue Formulas
+| Metric | Formula | Good benchmark |
+|---|---|---|
+| **LTV** | Avg revenue per customer × customer lifetime | Higher = better |
+| **CAC** | Total sales+marketing spend ÷ new customers | Lower = better |
+| **LTV:CAC** | LTV ÷ CAC | 3:1 or higher is healthy |
+| **MRR** | All paying customers × monthly price | Growing month over month |
+| **Churn** | Customers lost ÷ total customers × 100 | Under 5%/month for SaaS |
 
 ### Core Pain Points: What People Will Never Tell You
 
