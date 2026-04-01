@@ -117,4 +117,4 @@ Define problem + who → Known competitors → 3 strategies for Unknown:
 
 | | |
 |---|---|
-| [<- Previous: Finding Competitors](21-finding-competitors.md) | Next: ... -> |
+| [<- Previous: Finding Competitors](21-finding-competitors.md) | [Next: Four Types of Competitors ->](23-four-types-of-competitors.md) |

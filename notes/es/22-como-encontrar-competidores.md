@@ -116,4 +116,4 @@ Definir problema + para quien → Competidores conocidos → 3 estrategias para 
 
 | | |
 |---|---|
-| [<- Anterior: Encontrar Competidores](21-encontrar-competidores.md) | Siguiente: ... -> |
+| [<- Anterior: Encontrar Competidores](21-encontrar-competidores.md) | [Siguiente: Cuatro Tipos de Competidores ->](23-cuatro-tipos-de-competidores.md) |

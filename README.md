@@ -37,6 +37,7 @@ images/  # Supporting diagrams and screenshots
 20. [Competitive & Market Analysis](notes/en/20-competitive-and-market-analysis.md)
 21. [Finding Competitors](notes/en/21-finding-competitors.md)
 22. [How to Find Competitors](notes/en/22-how-to-find-competitors.md)
+23. [Four Types of Competitors](notes/en/23-four-types-of-competitors.md)
 
 ### Espanol
 
@@ -62,6 +63,7 @@ images/  # Supporting diagrams and screenshots
 20. [Analisis Competitivo y de Mercado](notes/es/20-analisis-competitivo-y-de-mercado.md)
 21. [Encontrar Competidores](notes/es/21-encontrar-competidores.md)
 22. [Como Encontrar Competidores](notes/es/22-como-encontrar-competidores.md)
+23. [Cuatro Tipos de Competidores](notes/es/23-cuatro-tipos-de-competidores.md)
 
 ---
 
@@ -135,6 +137,7 @@ images/  # Supporting diagrams and screenshots
 | **[EMUC](notes/en/17-emuc-where-ideas-come-from.md)** | Employees, Metrics, Users, Clients — the 4 sources of ideas | To systematically collect and categorize where product ideas come from based on your PM type |
 | **[The 3 Whys](notes/en/18-finding-the-real-problem.md)** | Ask "why?" at least 3 times on any request | To uncover the real pain point behind feature requests — don't build the symptom fix |
 | **[Market Sizing: Top Down vs Bottom Up](notes/en/20-competitive-and-market-analysis.md)** | Top Down = total market × your %. Bottom Up = existing sales × your capture | Before building a new product/feature — Bottom Up is more reliable (based on real data, not optimistic assumptions) |
+| **[Competitor Tiers](notes/en/23-four-types-of-competitors.md)** | 4 types: Direct (T1) → Indirect (T2) → Potential (T3) → Substitute (T4) | To organize competitors by threat level and decide where to focus your competitive strategy |
 
 ### Core Pain Points: What People Will Never Tell You
 
