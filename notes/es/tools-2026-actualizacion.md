@@ -87,6 +87,76 @@ Figma ahora maneja wireframing, mockups Y prototipado. Reemplazo a InVision, Ado
 
 ---
 
+---
+
+## Herramientas de Analitica y Metricas (Actualizacion 2026)
+
+### Que Cambio de la Lista Original
+
+| Herramienta Original | Estado | Reemplazo |
+|---|---|---|
+| **Google Analytics** | **GA4 es el estandar** — Universal Analytics murio Jul 2023 | Sigue siendo GA, pero ahora es GA4 |
+| **Crazy Egg** | Activo pero nicho | **Hotjar** y **Microsoft Clarity** (gratis) son mas populares |
+| **KISSmetrics** | **Practicamente muerto** — marca existe pero la mayoria migro | **Mixpanel**, **Amplitude**, o **PostHog** |
+| **Mixpanel** | **Sigue fuerte** — tier gratis generoso, compite con Amplitude | Aun recomendado |
+| **Optimizely** | **Solo enterprise** — adquirido por Episerver, caro | **PostHog**, **Statsig**, **GrowthBook** para equipos mas pequenos |
+| **Segment** | **Sigue lider** — adquirido por Twilio por $3.2B | **RudderStack** (alternativa open-source) ganando traccion |
+
+### Lideres Actuales por Categoria
+
+#### Analitica Web
+| Herramienta | Notas |
+|---|---|
+| **Google Analytics (GA4)** | Gratis, universal. El default |
+| **Plausible** | Enfocado en privacidad, ligero, open-source |
+| **Microsoft Clarity** | **Gratis** — session replay + heatmaps de Microsoft |
+
+#### Analitica de Producto (Funnels, Retencion, Comportamiento)
+| Herramienta | Notas |
+|---|---|
+| **Amplitude** | Lider. Empresa publica. Fuertes features AI |
+| **Mixpanel** | Competidor directo de Amplitude. Tier gratis generoso |
+| **PostHog** | Open-source todo-en-uno (analitica + session replay + feature flags + A/B testing). Muy popular |
+| **Pendo** | Analitica de producto + guias in-app. Popular con B2B SaaS |
+
+#### A/B Testing y Experimentacion
+| Herramienta | Notas |
+|---|---|
+| **PostHog** | Incluye experimentacion en plataforma todo-en-uno |
+| **Statsig** | Equipo ex-Facebook. Feature flags + experimentacion. Creciendo rapido |
+| **LaunchDarkly** | Lider en feature flags, expandiendose a experimentacion |
+| **GrowthBook** | Open-source. Popular con startups |
+
+#### Heatmaps y Session Replay
+| Herramienta | Notas |
+|---|---|
+| **Hotjar** | Lider (SMB). Propiedad de Contentsquare |
+| **Microsoft Clarity** | **Gratis** — heatmaps y session replay sorprendentemente capaces |
+| **FullStory** | Analitica de experiencia digital enterprise |
+
+#### Infraestructura de Datos / CDP
+| Herramienta | Notas |
+|---|---|
+| **Segment (Twilio)** | Sigue siendo el CDP lider |
+| **RudderStack** | Alternativa open-source a Segment. Warehouse-first |
+| **Hightouch** | Reverse ETL — activa datos desde tu warehouse |
+
+### Analitica con AI (Nuevo)
+| Herramienta | Que hace |
+|---|---|
+| **Amplitude AI** | Consultas en lenguaje natural, insights generados por AI |
+| **Mixpanel Spark** | Asistente AI — pregunta sobre datos en espanol/ingles |
+| **PostHog AI** | Generacion de insights con AI |
+| **Statsig Autotune** | Auto-optimizacion de experimentos con AI |
+
+### Tendencias Clave
+1. **PostHog como disruptor** — open-source todo-en-uno quitando presupuesto a multiples herramientas
+2. **Analitica privacy-first en ascenso** — Plausible, Fathom ganando terreno con regulaciones mas estrictas
+3. **Microsoft Clarity es gratis** — no hay excusa para no tener heatmaps/session replay
+4. **AI = requisito basico** — todas las herramientas tienen consultas en lenguaje natural; la diferenciacion esta en **insights predictivos**
+
+---
+
 ## Puntos Clave para PMs en 2026
 
 1. **Figma es el estandar** — si no lo usas, eres minoria

@@ -94,6 +94,83 @@ Launched "Visual Suite 2.0" (2025): presentations, videos, whiteboards, websites
 
 ---
 
+---
+
+## Analytics & Metrics Tools (2026 Update)
+
+### What Changed from the Original List
+
+| Original Tool | Status | Replacement |
+|---|---|---|
+| **Google Analytics** | **GA4 is the standard** — Universal Analytics fully sunset July 2023 | Still GA, but it's GA4 now |
+| **Crazy Egg** | Active but niche | **Hotjar** and **Microsoft Clarity** (free) are more popular |
+| **KISSmetrics** | **Largely faded** — brand exists but most users migrated | **Mixpanel**, **Amplitude**, or **PostHog** |
+| **Mixpanel** | **Still strong** — generous free tier, competing with Amplitude | Still recommended |
+| **Optimizely** | **Enterprise-only** — acquired by Episerver, expensive | **PostHog**, **Statsig**, **GrowthBook** for smaller teams |
+| **Segment** | **Still the leader** — acquired by Twilio for $3.2B | **RudderStack** (open-source alternative) gaining traction |
+
+### Current Leaders by Category
+
+#### Web Analytics
+| Tool | Notes |
+|---|---|
+| **Google Analytics (GA4)** | Free, universal. The default |
+| **Plausible** | Privacy-focused, lightweight, open-source |
+| **Fathom** | Privacy-first, GDPR-compliant without cookie banners |
+| **Microsoft Clarity** | **Free** session replay + heatmaps from Microsoft |
+
+#### Product Analytics (Funnels, Retention, User Behavior)
+| Tool | Notes |
+|---|---|
+| **Amplitude** | Leader. Public company. Strong AI features ("Amplitude AI") |
+| **Mixpanel** | Head-to-head with Amplitude. Generous free tier |
+| **PostHog** | Open-source all-in-one (analytics + session replay + feature flags + A/B testing). Very popular with dev-led teams |
+| **Heap** | Auto-capture (tracks everything). Acquired by Contentsquare (2023) |
+| **Pendo** | Product analytics + in-app guides. Popular with B2B SaaS |
+
+#### A/B Testing & Experimentation
+| Tool | Notes |
+|---|---|
+| **Optimizely** | Enterprise gold standard, expensive |
+| **PostHog** | Includes experimentation in all-in-one platform |
+| **Statsig** | Ex-Facebook team. Feature flags + experimentation. Rising fast |
+| **LaunchDarkly** | Feature flags leader, expanding into experimentation |
+| **GrowthBook** | Open-source experimentation. Popular with startups |
+
+#### Heatmaps & Session Replay
+| Tool | Notes |
+|---|---|
+| **Hotjar** | Leader (SMB). Owned by Contentsquare. Heatmaps + replay + surveys |
+| **Microsoft Clarity** | **Free** — surprisingly capable heatmaps and session replay |
+| **FullStory** | Enterprise digital experience analytics |
+| **Contentsquare** | Acquired Hotjar + Heap. Enterprise leader |
+
+#### Data Infrastructure / CDP
+| Tool | Notes |
+|---|---|
+| **Segment (Twilio)** | Still the leading CDP |
+| **RudderStack** | Open-source Segment alternative. Warehouse-first |
+| **Hightouch** | Reverse ETL — activates data from your warehouse |
+
+### AI-Powered Analytics (New)
+| Tool | What it does |
+|---|---|
+| **Amplitude AI** | Natural language querying, AI-generated insights |
+| **Mixpanel Spark** | AI assistant — ask data questions in plain English |
+| **PostHog AI** | AI insight generation |
+| **GA4 AI Insights** | Automated anomaly detection |
+| **Statsig Autotune** | AI auto-optimization of experiments |
+
+### Key Trends
+1. **Contentsquare consolidation** — acquired Hotjar (2021) + Heap (2023)
+2. **PostHog as disruptor** — open-source all-in-one pulling budget from multiple point solutions
+3. **Privacy-first analytics rising** — Plausible, Fathom, Matomo gaining share as regulations tighten
+4. **Warehouse-native tools** — Hightouch, Eppo building on your data warehouse instead of duplicating data
+5. **AI = table stakes** — every tool now has natural language querying; differentiation is in **predictive insights**
+6. **Microsoft Clarity is free** — no excuse not to have heatmaps/session replay
+
+---
+
 ## Key Takeaways for PMs in 2026
 
 1. **Figma is the standard** — if you're not using it, you're in the minority
