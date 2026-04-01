@@ -43,6 +43,9 @@ images/  # Supporting diagrams and screenshots
 26. [Feature Tables](notes/en/26-feature-tables.md)
 27. [Building Feature Tables](notes/en/27-building-feature-tables.md)
 28. [Feature Table: GoPro Example](notes/en/28-feature-table-gopro-example.md)
+29. [Feature Table: Proposed Feature](notes/en/29-feature-table-proposed-feature.md)
+30. [Tracking Competitors](notes/en/30-tracking-competitors.md)
+31. [MVPs](notes/en/31-mvps.md)
 
 ### Espanol
 
@@ -74,6 +77,9 @@ images/  # Supporting diagrams and screenshots
 26. [Tablas de Features](notes/es/26-tablas-de-features.md)
 27. [Construir Tablas de Features](notes/es/27-construir-tablas-de-features.md)
 28. [Feature Table: Ejemplo GoPro](notes/es/28-feature-table-ejemplo-gopro.md)
+29. [Feature Table: Feature Propuesto](notes/es/29-feature-table-feature-propuesto.md)
+30. [Rastrear Competidores](notes/es/30-rastrear-competidores.md)
+31. [MVPs](notes/es/31-mvps.md)
 
 ---
 
@@ -150,6 +156,7 @@ images/  # Supporting diagrams and screenshots
 | **[Competitor Tiers](notes/en/23-four-types-of-competitors.md)** | 4 types: Direct (T1) → Indirect (T2) → Potential (T3) → Substitute (T4) | To organize competitors by threat level and decide where to focus your competitive strategy |
 | **[5 Competitor Criteria](notes/en/24-competitor-analysis-5-criteria-part1.md)** | Product Core, User Base, Design, Brand, Speed | Evaluate each competitor on these 5 dimensions to know where you can win and where to avoid competing |
 | **[Feature Table](notes/en/26-feature-tables.md)** | Grid: your product vs competitors across features/dimensions | Before launching — quick visual to see if you're competitive or have gaps to fill |
+| **[MVP Experiment](notes/en/31-mvps.md)** | Assumption → Hypothesis → Minimum build → Test → Validated Learning | Before investing resources — validate the idea with minimum effort. MVP ≠ prototype, it's a process |
 
 ### Core Pain Points: What People Will Never Tell You
 

@@ -57,4 +57,4 @@ Cliente objetivo: **buscadores de adrenalina que filman accion** (surfers sin pr
 
 | | |
 |---|---|
-| [<- Anterior: Construir Tablas de Features](27-construir-tablas-de-features.md) | Siguiente: ... -> |
+| [<- Anterior: Construir Tablas de Features](27-construir-tablas-de-features.md) | [Siguiente: Feature Table para Feature Propuesto ->](29-feature-table-feature-propuesto.md) |

@@ -57,4 +57,4 @@ Target customer: **thrill seekers who film action** (broke surfers, extreme spor
 
 | | |
 |---|---|
-| [<- Previous: Building Feature Tables](27-building-feature-tables.md) | Next: ... -> |
+| [<- Previous: Building Feature Tables](27-building-feature-tables.md) | [Next: Feature Table for Proposed Feature ->](29-feature-table-proposed-feature.md) |
